@@ -1,2 +1,2 @@
-# screen-rec-TS
+# ShareScreenly
 simple screen recording app in TS 
